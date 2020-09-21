@@ -3,5 +3,6 @@
     <pages>
         <page name='Price Draw'/>
         <page name='What Century'/>
+        <page name='Irreducible Sum of Rationals'/>
     </pages>
 </playground>
